@@ -1,8 +1,8 @@
 ## Hi, I'm Piyush
 
 🧠computer science student at HLM College<br/>
-💻learning making code in c, c++, python, java<br/>
-🐐preparing to be a software developer<br/>
+💻learning making code in c, c++, python, javaScript<br/>
+🐐preparing to be a developer<br/>
 📌This is my instagram https://www.instagram.com/piyushtyagi921?igsh=ZnAzaTNqbGI2cWN2
 
 # 💻 Tech Stack:
